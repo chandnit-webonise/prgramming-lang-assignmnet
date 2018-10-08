@@ -33,7 +33,6 @@ It is portable means program once return can be run on another machine with less
 Explanation:
 
 #include<stdio.h> is a header file in c. In header file there is definition of predefined functions like printf and scanf.
-
 int a[4],i,n,small
 int:it will understand that it is int value and for int compiler will allocate 4 bytes of memory for each variable.
 a[4]:a is the name of array and when [ comes it will understand that there will be array and here size of array is 4 compiler
