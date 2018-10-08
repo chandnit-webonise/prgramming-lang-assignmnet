@@ -1,8 +1,10 @@
 /*programming language:C
 program:Find the smallest element from the array.
 why:It is easy for me to use c language because of it's simplicity.
-It is strongly typed language means if we do the multiplication of two different datatypes it will give an error.for example if we multiplying 10 which is int value and "Hello world" which is string value it will simply gives an error.
-It is simple to understand.It is portable means program once return can be run on another machine with less or no modification.
+It is strongly typed language means if we do the multiplication of two different datatypes it will give an error.
+for example if we multiplying 10 which is int value and "Hello world" which is string value it will simply gives an error.
+It is simple to understand.
+It is portable means program once return can be run on another machine with less or no modification.
 
 */
 
