@@ -36,7 +36,8 @@ Explanation:
 
 int a[4],i,n,small
 int:it will understand that it is int value and for int compiler will allocate 4 bytes of memory for each variable.
-a[4]:a is the name of array and when [ comes it will understand that there will be array and here size of array is 4 compiler allocates 16 bytes of memory for array a.
+a[4]:a is the name of array and when [ comes it will understand that there will be array and here size of array is 4 compiler
+allocates 16 bytes of memory for array a.
  4 bytes of memory for variable i, 
 4 bytes of memory for variable n, 
 4 bytes of memory for variable small
@@ -46,12 +47,16 @@ printf("Enter the no. of elements");
 printf is used to print the data.Complier will understand sentence within the "" will be printed.
  
 scanf("%d",&n);
-scanf is used for reading the input from keyboard.By entering %d compiler will understand that user will enter the integer value.If I given here as a float value so it will give an error.compiler will read the value of n from keyboard that user enters.
+scanf is used for reading the input from keyboard.By entering %d compiler will understand that user will enter the integer
+value.If I given here as a float value so it will give an error.compiler will read the value of n from keyboard that user
+enters.
 
 for(i=0;i<n;i++)
-for is one of the loop in c.Compiler will understand there will be initialization,condition and increment/decrement of the variable.
+for is one of the loop in c.Compiler will understand there will be initialization,condition and increment/decrement of the 
+variable.
 first compiler will assign the value of i to 0.when ; comes compiler will understand that initialization part is completed.
- After that condition is evaluated.If the condition is true it will execute the body of loop.If the condition is false body of loop does not executed,flow of control jumps to next statement after the for loop.
+ After that condition is evaluated.If the condition is true it will execute the body of loop.If the condition is false body
+ of loop does not executed,flow of control jumps to next statement after the for loop.
 after execution of body it will go for increment part.
 
 scanf("%d",&a[i]);
